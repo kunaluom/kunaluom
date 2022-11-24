@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sivakunalan Inparaja
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Machine Learning Algorithms
+- 👀 Interested in Machine Learning
 - 💞️ I’m looking to collaborate on ML projects 
 - 📫 You can reach me on ( sivakunalani.20@uom.lk , kunaluom@gmail.com , +94770549016)
 
